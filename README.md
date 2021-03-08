@@ -10,7 +10,7 @@ Download or clone this repo by using the following link:
 
 [<u>git@github.com:harleenkaurchadha/xylophone-app.git</u>](https://git@github.com:harleenkaurchadha/xylophone-app.git)
 
-In order to see complete app demo with sound you can download the file by this link:
+In order to see complete app demo with sound click this link:
 
 [<u>github.com/harleenkaurchadha/xylophone-app/issues/1#issue-824844727</u>](https://github.com/harleenkaurchadha/xylophone-app/issues/1#issue-824844727)
 
